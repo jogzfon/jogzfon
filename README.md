@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,py,html,css,regex" /><br>
-    <img src="https://skillicons.dev/icons?i=dotnet,unity,godot,mui,react,ps,pycharm,vscode,visualstudio,vscode,arduino,blender,maven" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,unity,godot,mui,react,vue,ps,pycharm,vscode,visualstudio,vscode,arduino,blender,maven" /><br>
     <img src="https://skillicons.dev/icons?i=github,git,figma,tensorflow,firebase,mysql,npm,notion,postman" />
     <br>
 </div>
