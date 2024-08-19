@@ -10,9 +10,9 @@
 
 <div align="center" style="background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
  
- 🔭 I’m currently working on **A Learning Management System (LMS) for our project on Relatively Simple Computer Simulator**
+ 🔭 I’m currently working on **A student lesson support system for our Research Problem**
  
- 🌱 I’m currently learning **React, AWS, Rest API**
+ 🌱 I’m currently learning **Docker, .Net Core, ML**
 
 💬 Ask me about **Projects, Firebase... or anything**
 
